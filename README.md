@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science and ML Development,
 - 🌱 I’m currently learning TensorFlow framework and Django REST Framework,
 - 💞️ I’m looking to collaborate on Machine Learning projects and Web Development,
-- 📫 How to reach me anthonyvictor385@gmail.com
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ebuka-victor-ofor-b49760138/) [Email](anthonyvictor385@gmail.com)
+
 
 <!---
 VictorAnthony506/VictorAnthony506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
