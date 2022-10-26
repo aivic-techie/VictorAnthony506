@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and ML Development,
 - 🌱 I’m currently learning TensorFlow framework and Django REST Framework,
 - 💞️ I’m looking to collaborate on Machine Learning projects and Web Development,
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ebuka-victor-ofor-b49760138/)
+- 📫 How to reach me [Linkedin](www.linkedin.com/in/victor-c-ofor)
 
 
 <!---
