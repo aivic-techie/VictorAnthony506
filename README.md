@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorAnthony506
 - 👀 I’m interested in Data Science and ML Development,
-- 🌱 I’m currently learning TensorFlow framework and Django REST Framework,
+- 🌱 I’m currently learning LLMs and Django REST Framework,
 - 💞️ I’m looking to collaborate on Machine Learning projects and Web Development,
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/victor-c-ofor/)
 
